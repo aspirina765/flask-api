@@ -1,4 +1,4 @@
-FROM python:3.7
+FROM python:3.11-rc-slim-bullseye
 
 RUN apt-get update
 RUN apt-get install -y --no-install-recommends \
