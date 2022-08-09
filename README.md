@@ -1,6 +1,6 @@
 # flask-api
 
-Este repositório cria uma api resful de flask com uwsgi e nginx. A aplicação vai em container de docker. 
+Este repositório cria uma api restful de flask com uwsgi e nginx. A aplicação vai em container de docker. 
 
 Ela possui um virtual environment de python já instalado para testes. 
 
