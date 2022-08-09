@@ -21,6 +21,6 @@ bash start-api.sh
 A api estará na porta 5000, no endereço http://localhost:5000 do navegador. Os endpoints são:
 
 * [GET]/r ; 
-* [GET]/d ; e 
-*[GET]/dly 
+* [GET]/d ; e
+* [GET]/dly 
 
