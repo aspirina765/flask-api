@@ -12,7 +12,7 @@ Para iniciar, execute em terminal e dentro deste repositório clonado :
 docker build -t api:latest . 
 ```
 
-E então, para iniciar a api, execute (ainda dentro destre repositório): 
+E então, para iniciar a api, execute (ainda dentro deste repositório): 
 
 ```
 bash start-api.sh
